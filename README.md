@@ -14,8 +14,23 @@ The highest points win.
 
 Think you can win?
 
----
+### Project Details
 
+[The Odin Project: Rocks-Paper-Scissors Javascript Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+    
+Starting code:
+
+    function playRound(playerSelection, computerSelection) {
+    // your code here!
+    }
+    
+    const playerSelection = "rock";
+    const computerSelection = getComputerChoice();
+    console.log(playRound(playerSelection, computerSelection));
+
+Note: The <strong>playerSelection</strong> parameter must be case-insensitive.
+
+---
 ### Technologies Used
 <div align='center'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="HTML 5 Logo" width='100px'>
