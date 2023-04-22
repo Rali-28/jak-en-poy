@@ -36,3 +36,11 @@ Note: The <strong>playerSelection</strong> parameter must be case-insensitive.
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png" alt="HTML 5 Logo" width='100px'>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="Javascript Logo" width='100px'>
 </div>
+
+### Attributions
+
+- [HTML LOGO](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg) \
+W3C, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+
+- [Javascript LOGO](https://commons.wikimedia.org/wiki/File:Unofficial_JavaScript_logo_2.svg) \
+Chris Williams, Public domain, via Wikimedia Commons
