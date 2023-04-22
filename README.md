@@ -10,7 +10,7 @@ Then the usual rules apply.
 - Paper > Rock
 
 You will play with the computer for 5 rounds. \
-The highest points win.
+The highest points wins.
 
 Think you can win?
 
