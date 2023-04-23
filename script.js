@@ -16,6 +16,17 @@ const getComputerChoice = () => {
     }
 };
 
+// Converts user input to lower case using the toLowerCase() method.
+const lowerCase = () => {
+    // Prompts the user to input a string
+    let userInput = prompt();
+    // Returns the user input in lower case
+    return userInput.toLowerCase();
+    }
+
 // Generates a random value of Rock, Paper, or Scissor
 // for computerSelection
 const computerSelection = getComputerChoice();
+
+// Stores the user input in lower case as the player's selection
+const playerSelection = lowerCase();
