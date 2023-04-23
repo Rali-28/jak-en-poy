@@ -15,3 +15,7 @@ const getComputerChoice = () => {
             return "Scissor";
     }
 };
+
+// Generates a random value of Rock, Paper, or Scissor
+// for computerSelection
+const computerSelection = getComputerChoice();
