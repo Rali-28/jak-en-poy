@@ -22,7 +22,7 @@ const lowerCase = () => {
     let userInput = prompt();
     // Returns the user input in lower case
     return userInput.toLowerCase();
-    }
+};
 
 // Generates a random value of Rock, Paper, or Scissor
 // for computerSelection
